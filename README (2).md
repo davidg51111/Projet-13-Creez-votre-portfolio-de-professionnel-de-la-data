@@ -12,7 +12,7 @@ Une analyse des besoins métiers du client pour bien les comprendre
 Un tableau de bord de mon profil professionnel qui répond aux exigences du client
 Un tableau de bord de veille métier et technologique dans l'analyse des données pour renforcer mon employabilité
 Une vidéo de formation sur Power BI à destination des équipes du client en utilisant l'outil Loom
-- [Vidéo de formation Power BI](LIEN_VIDEO_ICI) *(à ajouter après hébergement)*
+- [Vidéo de formation Power BI](https://drive.google.com/file/d/1LmaQLvuZpCfv6VAb4wCin1YY6SuCFfar/view?usp=sharing)
 Une procédure rédigée de création de graphiques sur Power BI pour les équipes du client
 Un site web du portfolio au format Github pour être séletionné pour la mission
 Compétences développées : Gestion de projet, rédaction professionnelle, data analysis, carte mentale,  veille informationnelle.
